@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667475437258",
+    "project_id": "reel-5b19f",
+    "storage_bucket": "reel-5b19f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667475437258:android:9251bbc23619e865777633",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEZ8FKaDLpBB-Y4MPKIvxj4E4nA_AJDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
